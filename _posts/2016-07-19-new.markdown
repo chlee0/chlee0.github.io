@@ -13,8 +13,10 @@ categories: test
       <a href="#" class="menu-icon">
         <svg viewBox="0 0 18 15">
 
-# 이것은 주석
+# 이것은 주석3
 {% endhighlight %}
+
+![alt](/img/test.png)
 
 Check out the [aaa][link-a] for more info on how to get the most out of Jekyll.
 
