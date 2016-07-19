@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c989e89-aa85-421a-b322-4e4d1c8db777" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-19-new.markdown" afterPath="$PROJECT_DIR$/_posts/2016-07-19-new.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-19-welcome-to-jekyll.markdown" afterPath="$PROJECT_DIR$/_posts/2016-07-19-welcome-to-jekyll.markdown" />
-    </list>
+    <list default="true" id="4c989e89-aa85-421a-b322-4e4d1c8db777" name="Default" comment="" />
     <ignored path="chlee0.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
